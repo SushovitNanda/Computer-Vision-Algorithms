@@ -83,7 +83,7 @@ The project includes comprehensive visualizations for:
 - Noise addition effects and comparisons
 - Edge detection results across different methods and filter sizes
 - Complete Canny algorithm step-by-step visualization
-- 
+
 ## Report
 
 A detailed PDF report is included with:
@@ -92,5 +92,3 @@ A detailed PDF report is included with:
 - Results analysis
 - Performance comparisons
 - Visual documentation
-
-*This implementation demonstrates a thorough understanding of fundamental computer vision algorithms and their practical applications in image processing.*
