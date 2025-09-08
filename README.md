@@ -11,15 +11,12 @@ This repository covers four main computer vision tasks:
 3. **Edge Detection Comparison** - Compare Sobel and Laplacian operators with different filter sizes
 4. **Canny Edge Detector** - Complete implementation from scratch with all intermediate steps
 
-## Technologies Used
+## Libraries Used
 
-- **Python 3.x** - Core programming language
 - **NumPy** - Numerical computations and array operations
 - **Matplotlib** - Visualization and plotting
 - **OpenCV** - Limited to image loading and color space conversion only
 - **Math** - Mathematical functions and kernel generation
-
-**Note**: All algorithms are implemented from scratch. OpenCV is used only for image loading and preprocessing.
 
 ## Features Implemented
 
@@ -86,8 +83,7 @@ The project includes comprehensive visualizations for:
 - Noise addition effects and comparisons
 - Edge detection results across different methods and filter sizes
 - Complete Canny algorithm step-by-step visualization
-
-
+- 
 ## Report
 
 A detailed PDF report is included with:
